@@ -7,7 +7,7 @@
 
 - [Prerequisites in installation order](Prereq)
 - [Enhancement of Security](Enhancement)
-- [Try it]
+- [Try it](Try)
 - [ToDo](ToDo)
 
 ## Prerequisites in installation order
