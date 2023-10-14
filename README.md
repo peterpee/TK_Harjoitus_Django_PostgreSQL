@@ -28,7 +28,6 @@
 * Go through the prerequisites installations
 * Activate virtual environment
 * Git clone the repository
-* Create .env file
 * Run python3 manage.py makemigrations and migrate commands
 * Run python3 manage.py runserver
 * Access the site URL http://127.0.0.1:8000
