@@ -5,8 +5,8 @@
 
 **Table of contents:**
 
-- [Prerequisites in installation order]
-- [Enhancement of Security]
+- [Prerequisites in installation order](Prereq)
+- [Enhancement of Security](Enhancement)
 - [Try it]
 - [ToDo](ToDo)
 
