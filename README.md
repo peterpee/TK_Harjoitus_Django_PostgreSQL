@@ -21,9 +21,7 @@
 
 ## Enhancement of Security
 
-* Using .env file
 * Authentication required to prevent access to URLs
-* Debug mode set to False
 
 ## Try it
 
@@ -34,3 +32,11 @@
 * Run python3 manage.py makemigrations and migrate commands
 * Run python3 manage.py runserver
 * Access the site URL http://127.0.0.1:8000
+
+## ToDo
+
+* Configure https
+* Configure .env file
+* Set Debug mode to False
+* Add more functionality
+  
